@@ -172,6 +172,7 @@ module.exports = {
           "Bolo baby 💬", "হুম? বলো 😺", "হ্যাঁ জানু 😚", "শুনছি বেবি 😘",
           "এতো ডেকো না,প্রেম এ পরে যাবো তো🙈", "সুবহান আমার বস ওকে সম্মান দিয়ে কথা বলবি। 😡🫵",
           "আমাকে ডাকলে ,আমি কিন্তু কিস করে দিবো😘", "আমাকে এত না ডেকে আমার বস সোবহানকে একটা GF দে 😉😋🤣"
+          [;
         const randomReply = greetings[Math.floor(Math.random() * greetings.length)];
 
         const mention = {
